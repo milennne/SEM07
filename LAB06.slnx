@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Datos/Datos.csproj" />
+  <Project Path="Entidades/Entidades.csproj" />
+  <Project Path="LAB06/LAB06.csproj" />
+  <Project Path="Negocio/Negocio.csproj" />
+</Solution>
